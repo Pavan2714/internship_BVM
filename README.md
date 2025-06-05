@@ -18,7 +18,7 @@ These models were tested on the Titanic dataset to predict passenger survival.
 
 ---
 
-→ 🧪 Model Results
+→ Model Results
 
 | Model         | Accuracy |
 |---------------|----------|
@@ -29,7 +29,7 @@ Both algorithms were evaluated on a validation set (80-20 split). Naive Bayes sh
 
 ---
 
-→ 📁 Project Structure
+→ Project Structure
 
 • `titanic_classification.ipynb` → Full notebook with preprocessing, implementation, evaluation, and visualizations  
 • `train.csv` / `test.csv` → Datasets used  
@@ -37,7 +37,7 @@ Both algorithms were evaluated on a validation set (80-20 split). Naive Bayes sh
 
 ---
 
-→ 🎯 Key Highlights
+→ Key Highlights
 
 • No ML libraries like scikit-learn used  
 • All logic (distance calculation, probability, etc.) implemented manually  
@@ -46,7 +46,7 @@ Both algorithms were evaluated on a validation set (80-20 split). Naive Bayes sh
 
 ---
 
-→ 🖥️ How to Run the Project
+→ How to Run the Project
 
 1. Clone the repository or download the files.  
 2. Open `titanic_classifier.ipynb` in Jupyter Notebook.  
