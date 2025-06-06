@@ -11,6 +11,7 @@ These models were tested on the Titanic dataset to predict passenger survival.
 ---
 
 → Technologies Used
+
 • Python 3.5+  
 • NumPy  
 • Pandas  
