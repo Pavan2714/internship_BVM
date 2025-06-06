@@ -4,6 +4,7 @@
 This project presents two popular supervised machine learning algorithms implemented from scratch using Python:
 
 → Naive Bayes
+
 → K-Nearest Neighbours (KNN)
 
 These models were tested on the Titanic dataset to predict passenger survival.
