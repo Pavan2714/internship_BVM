@@ -1,5 +1,5 @@
-# internship_BVM
-→ Titanic Dataset Prediction - ML Algorithms from Scratch
+
+# Titanic Dataset Prediction - ML Algorithms from Scratch
 
 This project presents two popular supervised machine learning algorithms implemented from scratch using Python:
 
