@@ -4,7 +4,7 @@
 Implement Principal Component Analysis (PCA) and K-Means Clustering from scratch using only NumPy, Pandas, and Matplotlib.  
 Apply these algorithms to the Iris dataset and visualize the results.
 
--> Dataset:Iris Dataset.csv
+-> Dataset: Iris Dataset.csv
 
 - Sepal length  
 - Sepal width  
